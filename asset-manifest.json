@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/umeshpalsingh.github.io/todo-localstorage/static/css/main.44fab0cc.chunk.css",
+    "main.js": "/umeshpalsingh.github.io/todo-localstorage/static/js/main.5321fc78.chunk.js",
+    "main.js.map": "/umeshpalsingh.github.io/todo-localstorage/static/js/main.5321fc78.chunk.js.map",
+    "runtime-main.js": "/umeshpalsingh.github.io/todo-localstorage/static/js/runtime-main.4b63b55f.js",
+    "runtime-main.js.map": "/umeshpalsingh.github.io/todo-localstorage/static/js/runtime-main.4b63b55f.js.map",
+    "static/css/2.383c0125.chunk.css": "/umeshpalsingh.github.io/todo-localstorage/static/css/2.383c0125.chunk.css",
+    "static/js/2.383ed823.chunk.js": "/umeshpalsingh.github.io/todo-localstorage/static/js/2.383ed823.chunk.js",
+    "static/js/2.383ed823.chunk.js.map": "/umeshpalsingh.github.io/todo-localstorage/static/js/2.383ed823.chunk.js.map",
+    "static/js/3.055379df.chunk.js": "/umeshpalsingh.github.io/todo-localstorage/static/js/3.055379df.chunk.js",
+    "static/js/3.055379df.chunk.js.map": "/umeshpalsingh.github.io/todo-localstorage/static/js/3.055379df.chunk.js.map",
+    "index.html": "/umeshpalsingh.github.io/todo-localstorage/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/umeshpalsingh.github.io/todo-localstorage/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.44fab0cc.chunk.css.map": "/umeshpalsingh.github.io/todo-localstorage/static/css/main.44fab0cc.chunk.css.map",
+    "static/js/2.383ed823.chunk.js.LICENSE.txt": "/umeshpalsingh.github.io/todo-localstorage/static/js/2.383ed823.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b63b55f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.383ed823.chunk.js",
+    "static/css/main.44fab0cc.chunk.css",
+    "static/js/main.5321fc78.chunk.js"
+  ]
+}
